@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://iebgames.github.io/ieb-project-helper/">Website</a> ·
-  <a href="https://github.com/iebgames/ieb-project-helper/releases/download/v1.0.0/IEB-Project-Assistant-Setup-1.0.0.exe">Download (Windows)</a> ·
+  <a href="https://github.com/iebgames/ieb-project-helper/releases/download/1.0.0/IEB-Project-Assistant-Setup-1.0.0.exe">Download (Windows)</a> ·
   <a href="https://github.com/iebgames/ieb-project-helper">GitHub</a>
 </p>
 
@@ -63,14 +63,14 @@ Describe what to build. The AI plans files, todos, and code — nothing is writt
 
 ## Quick start
 
-1. **[Download the installer](https://github.com/iebgames/ieb-project-helper/releases/download/v1.0.0/IEB-Project-Assistant-Setup-1.0.0.exe)** (Windows v1.0.0)  
+1. **[Download the installer](https://github.com/iebgames/ieb-project-helper/releases/download/1.0.0/IEB-Project-Assistant-Setup-1.0.0.exe)** (Windows v1.0.0)  
 2. Add API keys to `.env` next to the app (or via Settings)  
 3. Open a project folder from the sidebar, or start with **Setup Guide**  
 4. Pick a mode: learn, fix, or vibe-build  
 
 ## Download
 
-**[IEB-Project-Assistant-Setup-1.0.0.exe](https://github.com/iebgames/ieb-project-helper/releases/download/v1.0.0/IEB-Project-Assistant-Setup-1.0.0.exe)**
+**[IEB-Project-Assistant-Setup-1.0.0.exe](https://github.com/iebgames/ieb-project-helper/releases/download/1.0.0/IEB-Project-Assistant-Setup-1.0.0.exe)**
 
 Repository: **[github.com/iebgames/ieb-project-helper](https://github.com/iebgames/ieb-project-helper)**
 
